@@ -5,9 +5,10 @@ The dashboard is created based on this dataset using pivot tables to visualize k
 
 ## 📊 Key Features
 - 600 rows of structured passenger flight booking data
-- Data cleaning and preparation in Excel
-- Pivot tables for data-driven analysis
-- Dashboard built from the dataset to track booking trends and flight status
+- Excel file with 3 sheets:
+  - 1 data sheet containing raw and cleaned data
+  - 2 pivot table sheets for analysis
+- Final dashboard built using pivot tables for visualization
 
 ## 🛠 Tool Used
 - Microsoft Excel
