@@ -1,4 +1,4 @@
-# Excel---Passengers_Flight_Booking_Analysis
+# Excel---Airline_Booking_Data_Analysis 
 
 An Excel-based data analysis project with 600 rows of passenger flight booking data.
 The dashboard is created based on this dataset using pivot tables to visualize key insights.
